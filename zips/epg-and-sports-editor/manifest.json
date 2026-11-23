@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T13:49:54Z",
+  "generated_at": "2026-11-23T14:02:59Z",
   "manifest": {
     "slug": "epg-and-sports-editor",
     "name": "EPG & Sports Editor",
@@ -7,19 +7,29 @@
     "author": "jstevenscl (fork: tylertufano)",
     "registry_url": "https://github.com/tylertufano/epg-and-sports-editor",
     "registry_name": "tylertufano/epg-and-sports-editor",
-    "last_updated": "2026-11-23T13:49:54Z",
+    "last_updated": "2026-11-23T14:02:59Z",
     "latest": {
-      "version": "0.6.03.2",
-      "url": "https://github.com/tylertufano/epg-and-sports-editor/releases/download/v0.6.03.2/epg-and-sports-editor-v0.6.03.2.zip",
-      "checksum_md5": "668e2c95242a75a9abc9bfaa66fba8a0",
-      "checksum_sha256": "672b6c6f26b02b6f47133371a1b5d0fa2bff85de8a1a3ba23a44b8a8a95097c1",
-      "size": 195721,
-      "last_updated": "2026-11-23T13:49:54Z",
-      "build_timestamp": "2026-11-23T13:49:54Z",
+      "version": "0.6.03.3",
+      "url": "https://github.com/tylertufano/epg-and-sports-editor/releases/download/v0.6.03.3/epg-and-sports-editor-v0.6.03.3.zip",
+      "checksum_md5": "6c0daee7c6ff25a3ddc1a20690325023",
+      "checksum_sha256": "9867f1ef138450a1068f29d5adf9260f5df3cf8dfd5cb9b39aacfc7b2a71dc1b",
+      "size": 195708,
+      "last_updated": "2026-11-23T14:02:59Z",
+      "build_timestamp": "2026-11-23T14:02:59Z",
       "min_dispatcharr_version": "0.34.0",
-      "latest_url": "https://github.com/tylertufano/epg-and-sports-editor/releases/download/v0.6.03.2/epg-and-sports-editor-v0.6.03.2.zip"
+      "latest_url": "https://github.com/tylertufano/epg-and-sports-editor/releases/download/v0.6.03.3/epg-and-sports-editor-v0.6.03.3.zip"
     },
     "versions": [
+      {
+        "version": "0.6.03.3",
+        "url": "https://github.com/tylertufano/epg-and-sports-editor/releases/download/v0.6.03.3/epg-and-sports-editor-v0.6.03.3.zip",
+        "checksum_md5": "6c0daee7c6ff25a3ddc1a20690325023",
+        "checksum_sha256": "9867f1ef138450a1068f29d5adf9260f5df3cf8dfd5cb9b39aacfc7b2a71dc1b",
+        "size": 195708,
+        "last_updated": "2026-11-23T14:02:59Z",
+        "build_timestamp": "2026-11-23T14:02:59Z",
+        "min_dispatcharr_version": "0.34.0"
+      },
       {
         "version": "0.6.03.2",
         "url": "https://github.com/tylertufano/epg-and-sports-editor/releases/download/v0.6.03.2/epg-and-sports-editor-v0.6.03.2.zip",
